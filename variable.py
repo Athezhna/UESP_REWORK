@@ -1,0 +1,5 @@
+auth_key = "INSERT"
+work_channel = "INSERT"
+slut_channel = "INSERT"
+crime_channel = "INSERT"
+dep_channel = "INSERT"
